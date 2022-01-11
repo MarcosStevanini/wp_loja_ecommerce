@@ -1,0 +1,86 @@
+
+---Downloaded files---
+The import files for: Electro - WP Bakery Page Builder were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/www/wp_loja_woocomerce
+Data file = C:\xampp\htdocs\www\wp_loja_woocomerce/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/dummy-data.xml
+Widget file = C:\xampp\htdocs\www\wp_loja_woocomerce/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/widgets.wie
+Customizer file = not defined!
+Redux files:
+electro_options -> C:\xampp\htdocs\www\wp_loja_woocomerce/wp-content/themes/electro/assets/dummy-data/visualcomposer-2/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Home Sidebar : 
+
+Imagem - No Title - Imported
+Products list - Latest Products - Imported
+Electro Features Block - No Title - Imported
+Electro Products Carousel - Featured Products - Imported
+Electro Posts Carousel - From the Blog - Imported
+
+Shop Sidebar : 
+
+Electro Product Categories - No Title - Imported
+Electro Product Filter - Filters - Imported
+Imagem - No Title - Imported
+Products list - Latest Products - Imported
+
+Product Filters : 
+
+Active Product Filters - Active Filters - Imported
+Filter Products by Attribute - Brands - Imported
+Filter Products by Attribute - Color - Imported
+Filter Products by Price - Price - Imported
+
+Blog Sidebar : 
+
+Pesquisar - No Title - Imported
+Texto - About Blog - Imported
+Categorias - Categories - Imported
+Electro Recent Posts - Recent Posts - Imported
+Nuvem de tags - Tags Clouds - Imported
+
+Footer Widgets : 
+
+Products list - Featured Products - Imported
+Products list - Top Selling Products - Imported
+Products list - On-sale Products - Imported
+Imagem - No Title - Imported
+
+Footer Bottom Widgets : 
+
+Menu - Find It Fast - Imported
+Menu -   - Imported
+Menu - Customer Care - Imported
+
+Mobile Footer Bottom Widgets : 
+
+Menu - We Recommend - Imported
+Menu - My Account - Imported
+Menu - Customer Care - Imported
+Menu - About Us - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: electro_options finished successfully!
+
+---ocdi/after_import---
+
